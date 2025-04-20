@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AnimeInfo</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="country">Country</string>
+    <string name="apply">Apply</string>
+    <string name="one_piece">One Piece</string>
+    <string name="rent">Rent</string>
+    <string name="buy">Buy</string>
+    <string name="rating">4,9</string>
+    <string name="type">Family</string>
+    <string name="percentage">97%</string>
+    <string name="familiarity">Similar</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id consectetur quam. Etiam bibendum interdum neque ac malesuada. Quisque viverra dui at odio lacinia eleifend sed a tortor. Sed accumsan, massa dapibus venenatis convallis, leo orci hendrerit orci, vel semper purus nulla a velit. Mauris sed sollicitudin sapien. In hac habitasse platea dictumst. Sed scelerisque tempus leo eget sodales. Vestibulum id ex sem. Nam at neque elementum, volutpat sapien nec, ornare felis. Fusce non lectus ligula. Pellentesque id ultrices massa. Sed justo libero, rutrum vel mollis sed, placerat ut purus. Vivamus nec ex a enim sagittis porttitor. Mauris fermentum varius tortor semper sodales. Donec sit amet mi vel erat finibus pulvinar quis et dui. In fringilla aliquam semper. Ut dapibus magna at erat elementum congue. Mauris blandit felis et felis tincidunt convallis. Nullam id ipsum consequat, suscipit felis sit amet, sodales nibh. Nunc ut ligula libero. Nunc auctor arcu et dolor sollicitudin, non iaculis neque accumsan. Curabitur dapibus tristique turpis, quis placerat sem placerat id.</string>
+</resources>
